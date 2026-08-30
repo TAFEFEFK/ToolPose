@@ -1,6 +1,6 @@
 # ToolPose
 
-**ToolPose** is a client-side Fabric mod that lets you adjust position, rotation, scale, and swing animation of tools and weapons in first-person view.
+**ToolPose** is a client-side Fabric mod for 26.2 version that lets you adjust position, rotation, scale, and swing animation of tools and weapons in first-person view.
 
 ## Features
 
