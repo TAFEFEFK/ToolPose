@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "Налаштування ToolPose",
+  "screen.toolpose.weaponConfig": "Налаштування зброї",
+  "screen.toolpose.categoryConfig": "Категорія: %s",
+
+  "slider.toolpose.offsetX": "Ліво-Право: %s",
+  "slider.toolpose.offsetY": "Вгору-Вниз: %s",
+  "slider.toolpose.offsetZ": "Близько-Далеко: %s",
+  "slider.toolpose.rotationX": "Нахил: %s",
+  "slider.toolpose.rotationY": "Поворот: %s",
+  "slider.toolpose.rotationZ": "Градус: %s",
+  "slider.toolpose.swingIntensity": "Сила анімації: %s",
+  "slider.toolpose.animationSpeed": "Швидкість анімації: %s",
+  "slider.toolpose.scale": "Розмір: %s",
+
+  "button.toolpose.reset": "За замовчуванням",
+  "button.toolpose.weaponConfig": "Налаштування зброї",
+  "button.toolpose.done": "Готово",
+  "button.toolpose.back": "Назад",
+  "button.toolpose.categoryEnabled": "Категорія: %s",
+  "button.toolpose.rightHand": "Права рука",
+  "button.toolpose.leftHand": "Ліва рука",
+  "button.toolpose.randomize": "Випадково",
+
+  "tooltip.toolpose.enableCategories": "Увімкнути viewmodels категорій",
+  "tooltip.toolpose.disableCategories": "Вимкнути viewmodels категорій",
+  "tooltip.toolpose.enableCategory": "Увімкнути категорію",
+  "tooltip.toolpose.disableCategory": "Вимкнути категорію",
+
+  "category.toolpose.sword": "Меч",
+  "category.toolpose.axe": "Сокира",
+  "category.toolpose.pickaxe": "Кирка",
+  "category.toolpose.shovel": "Лопата",
+  "category.toolpose.hoe": "Мотика",
+  "category.toolpose.food": "Їжа",
+  "category.toolpose.block": "Блок",
+  "category.toolpose.totem": "Тотем",
+  "category.toolpose.shield": "Щит",
+  "category.toolpose.bow": "Лук",
+  "category.toolpose.crossbow": "Арбалет"
+}

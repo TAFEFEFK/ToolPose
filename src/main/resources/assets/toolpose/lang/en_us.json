@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "ToolPose Settings",
+  "screen.toolpose.weaponConfig": "Weapon Settings",
+  "screen.toolpose.categoryConfig": "Category: %s",
+
+  "slider.toolpose.offsetX": "Left-Right: %s",
+  "slider.toolpose.offsetY": "Up-Down: %s",
+  "slider.toolpose.offsetZ": "Near-Far: %s",
+  "slider.toolpose.rotationX": "Pitch: %s",
+  "slider.toolpose.rotationY": "Yaw: %s",
+  "slider.toolpose.rotationZ": "Degree: %s",
+  "slider.toolpose.swingIntensity": "Swing Intensity: %s",
+  "slider.toolpose.animationSpeed": "Animation Speed: %s",
+  "slider.toolpose.scale": "Size: %s",
+
+  "button.toolpose.reset": "Reset Defaults",
+  "button.toolpose.weaponConfig": "Weapon Settings",
+  "button.toolpose.done": "Done",
+  "button.toolpose.back": "Back",
+  "button.toolpose.categoryEnabled": "Category: %s",
+  "button.toolpose.rightHand": "Right Hand",
+  "button.toolpose.leftHand": "Left Hand",
+  "button.toolpose.randomize": "Randomize",
+
+  "tooltip.toolpose.enableCategories": "Enable category viewmodels",
+  "tooltip.toolpose.disableCategories": "Disable category viewmodels",
+  "tooltip.toolpose.enableCategory": "Enable category",
+  "tooltip.toolpose.disableCategory": "Disable category",
+
+  "category.toolpose.sword": "Sword",
+  "category.toolpose.axe": "Axe",
+  "category.toolpose.pickaxe": "Pickaxe",
+  "category.toolpose.shovel": "Shovel",
+  "category.toolpose.hoe": "Hoe",
+  "category.toolpose.food": "Food",
+  "category.toolpose.block": "Block",
+  "category.toolpose.totem": "Totem",
+  "category.toolpose.shield": "Shield",
+  "category.toolpose.bow": "Bow",
+  "category.toolpose.crossbow": "Crossbow"
+}

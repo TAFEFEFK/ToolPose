@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "Impostazioni ToolPose",
+  "screen.toolpose.weaponConfig": "Impostazioni armi",
+  "screen.toolpose.categoryConfig": "Categoria: %s",
+
+  "slider.toolpose.offsetX": "Sinistra-Destra: %s",
+  "slider.toolpose.offsetY": "Su-Giù: %s",
+  "slider.toolpose.offsetZ": "Vicino-Lontano: %s",
+  "slider.toolpose.rotationX": "Inclinazione: %s",
+  "slider.toolpose.rotationY": "Rotazione: %s",
+  "slider.toolpose.rotationZ": "Grado: %s",
+  "slider.toolpose.swingIntensity": "Intensità colpo: %s",
+  "slider.toolpose.animationSpeed": "Velocità animazione: %s",
+  "slider.toolpose.scale": "Dimensione: %s",
+
+  "button.toolpose.reset": "Predefinito",
+  "button.toolpose.weaponConfig": "Impostazioni armi",
+  "button.toolpose.done": "Fatto",
+  "button.toolpose.back": "Indietro",
+  "button.toolpose.categoryEnabled": "Categoria: %s",
+  "button.toolpose.rightHand": "Mano destra",
+  "button.toolpose.leftHand": "Mano sinistra",
+  "button.toolpose.randomize": "Casuale",
+
+  "tooltip.toolpose.enableCategories": "Attiva viewmodels per categoria",
+  "tooltip.toolpose.disableCategories": "Disattiva viewmodels per categoria",
+  "tooltip.toolpose.enableCategory": "Attiva categoria",
+  "tooltip.toolpose.disableCategory": "Disattiva categoria",
+
+  "category.toolpose.sword": "Spada",
+  "category.toolpose.axe": "Ascia",
+  "category.toolpose.pickaxe": "Piccone",
+  "category.toolpose.shovel": "Pala",
+  "category.toolpose.hoe": "Zappa",
+  "category.toolpose.food": "Cibo",
+  "category.toolpose.block": "Blocco",
+  "category.toolpose.totem": "Totem",
+  "category.toolpose.shield": "Scudo",
+  "category.toolpose.bow": "Arco",
+  "category.toolpose.crossbow": "Balestra"
+}

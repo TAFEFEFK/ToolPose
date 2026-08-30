@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "ToolPose 設定",
+  "screen.toolpose.weaponConfig": "武器設定",
+  "screen.toolpose.categoryConfig": "カテゴリ: %s",
+
+  "slider.toolpose.offsetX": "左右: %s",
+  "slider.toolpose.offsetY": "上下: %s",
+  "slider.toolpose.offsetZ": "近遠: %s",
+  "slider.toolpose.rotationX": "傾き: %s",
+  "slider.toolpose.rotationY": "回転: %s",
+  "slider.toolpose.rotationZ": "角度: %s",
+  "slider.toolpose.swingIntensity": "振りの強さ: %s",
+  "slider.toolpose.animationSpeed": "アニメーション速度：%s",
+  "slider.toolpose.scale": "サイズ：%s",
+
+  "button.toolpose.reset": "デフォルト",
+  "button.toolpose.weaponConfig": "武器設定",
+  "button.toolpose.done": "完了",
+  "button.toolpose.back": "戻る",
+  "button.toolpose.categoryEnabled": "カテゴリ: %s",
+  "button.toolpose.rightHand": "右手",
+  "button.toolpose.leftHand": "左手",
+  "button.toolpose.randomize": "ランダム",
+
+  "tooltip.toolpose.enableCategories": "カテゴリ別ビューモデルを有効化",
+  "tooltip.toolpose.disableCategories": "カテゴリ別ビューモデルを無効化",
+  "tooltip.toolpose.enableCategory": "カテゴリを有効化",
+  "tooltip.toolpose.disableCategory": "カテゴリを無効化",
+
+  "category.toolpose.sword": "剣",
+  "category.toolpose.axe": "斧",
+  "category.toolpose.pickaxe": "ツルハシ",
+  "category.toolpose.shovel": "シャベル",
+  "category.toolpose.hoe": "クワ",
+  "category.toolpose.food": "食料",
+  "category.toolpose.block": "ブロック",
+  "category.toolpose.totem": "トーテム",
+  "category.toolpose.shield": "盾",
+  "category.toolpose.bow": "弓",
+  "category.toolpose.crossbow": "クロスボウ"
+}

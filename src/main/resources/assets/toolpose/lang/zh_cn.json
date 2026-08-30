@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "ToolPose 设置",
+  "screen.toolpose.weaponConfig": "武器设置",
+  "screen.toolpose.categoryConfig": "类别：%s",
+
+  "slider.toolpose.offsetX": "左右：%s",
+  "slider.toolpose.offsetY": "上下：%s",
+  "slider.toolpose.offsetZ": "远近：%s",
+  "slider.toolpose.rotationX": "俯仰：%s",
+  "slider.toolpose.rotationY": "旋转：%s",
+  "slider.toolpose.rotationZ": "角度：%s",
+  "slider.toolpose.swingIntensity": "挥动强度：%s",
+  "slider.toolpose.animationSpeed": "动画速度：%s",
+  "slider.toolpose.scale": "大小：%s",
+
+  "button.toolpose.reset": "默认",
+  "button.toolpose.weaponConfig": "武器设置",
+  "button.toolpose.done": "完成",
+  "button.toolpose.back": "返回",
+  "button.toolpose.categoryEnabled": "类别：%s",
+  "button.toolpose.rightHand": "右手",
+  "button.toolpose.leftHand": "左手",
+  "button.toolpose.randomize": "随机",
+
+  "tooltip.toolpose.enableCategories": "启用分类视图模型",
+  "tooltip.toolpose.disableCategories": "禁用分类视图模型",
+  "tooltip.toolpose.enableCategory": "启用类别",
+  "tooltip.toolpose.disableCategory": "禁用类别",
+
+  "category.toolpose.sword": "剑",
+  "category.toolpose.axe": "斧",
+  "category.toolpose.pickaxe": "镐",
+  "category.toolpose.shovel": "锹",
+  "category.toolpose.hoe": "锄",
+  "category.toolpose.food": "食物",
+  "category.toolpose.block": "方块",
+  "category.toolpose.totem": "图腾",
+  "category.toolpose.shield": "盾牌",
+  "category.toolpose.bow": "弓",
+  "category.toolpose.crossbow": "弩"
+}

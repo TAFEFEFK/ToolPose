@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "Настройки ToolPose",
+  "screen.toolpose.weaponConfig": "Настройки оружия",
+  "screen.toolpose.categoryConfig": "Категория: %s",
+
+  "slider.toolpose.offsetX": "Влево-вправо: %s",
+  "slider.toolpose.offsetY": "Вверх-вниз: %s",
+  "slider.toolpose.offsetZ": "Ближе-дальше: %s",
+  "slider.toolpose.rotationX": "Наклон: %s",
+  "slider.toolpose.rotationY": "Поворот: %s",
+  "slider.toolpose.rotationZ": "Вращение: %s",
+  "slider.toolpose.swingIntensity": "Сила анимации: %s",
+  "slider.toolpose.animationSpeed": "Скорость анимации: %s",
+  "slider.toolpose.scale": "Размер: %s",
+
+  "button.toolpose.reset": "По умолчанию",
+  "button.toolpose.weaponConfig": "Настройка оружий",
+  "button.toolpose.done": "Готово",
+  "button.toolpose.back": "Назад",
+  "button.toolpose.categoryEnabled": "Категория: %s",
+  "button.toolpose.rightHand": "Правая рука",
+  "button.toolpose.leftHand": "Левая рука",
+  "button.toolpose.randomize": "Рандомизировать",
+
+  "tooltip.toolpose.enableCategories": "Включить раздельные viewmodels",
+  "tooltip.toolpose.disableCategories": "Выключить раздельные viewmodels",
+  "tooltip.toolpose.enableCategory": "Включить категорию",
+  "tooltip.toolpose.disableCategory": "Выключить категорию",
+
+  "category.toolpose.sword": "Меч",
+  "category.toolpose.axe": "Топор",
+  "category.toolpose.pickaxe": "Кирка",
+  "category.toolpose.shovel": "Лопата",
+  "category.toolpose.hoe": "Мотыга",
+  "category.toolpose.food": "Еда",
+  "category.toolpose.block": "Блок",
+  "category.toolpose.totem": "Тотем",
+  "category.toolpose.shield": "Щит",
+  "category.toolpose.bow": "Лук",
+  "category.toolpose.crossbow": "Арбалет"
+}

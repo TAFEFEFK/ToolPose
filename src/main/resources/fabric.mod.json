@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "toolpose",
+	"version": "${version}",
+	"name": "ToolPose",
+	"description": "items position",
+	"authors": [
+		"TAFEFEFK"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/toolpose/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.example.ToolPose"
+		],
+		"client": [
+			"com.example.ToolPoseClient"
+		]
+	},
+	"mixins": [
+		"toolpose.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/yourinvite"
+			}
+		}
+	}
+}

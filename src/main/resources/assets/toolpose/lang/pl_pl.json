@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "Ustawienia ToolPose",
+  "screen.toolpose.weaponConfig": "Ustawienia broni",
+  "screen.toolpose.categoryConfig": "Kategoria: %s",
+
+  "slider.toolpose.offsetX": "Lewo-Prawo: %s",
+  "slider.toolpose.offsetY": "Góra-Dół: %s",
+  "slider.toolpose.offsetZ": "Blisko-Daleko: %s",
+  "slider.toolpose.rotationX": "Pochylenie: %s",
+  "slider.toolpose.rotationY": "Obrót: %s",
+  "slider.toolpose.rotationZ": "Stopień: %s",
+  "slider.toolpose.swingIntensity": "Siła zamachu: %s",
+  "slider.toolpose.animationSpeed": "Szybkość animacji: %s",
+  "slider.toolpose.scale": "Rozmiar: %s",
+
+  "button.toolpose.reset": "Domyślne",
+  "button.toolpose.weaponConfig": "Ustawienia broni",
+  "button.toolpose.done": "Gotowe",
+  "button.toolpose.back": "Wstecz",
+  "button.toolpose.categoryEnabled": "Kategoria: %s",
+  "button.toolpose.rightHand": "Prawa ręka",
+  "button.toolpose.leftHand": "Lewa ręka",
+  "button.toolpose.randomize": "Losuj",
+
+  "tooltip.toolpose.enableCategories": "Włącz viewmodels kategorii",
+  "tooltip.toolpose.disableCategories": "Wyłącz viewmodels kategorii",
+  "tooltip.toolpose.enableCategory": "Włącz kategorię",
+  "tooltip.toolpose.disableCategory": "Wyłącz kategorię",
+
+  "category.toolpose.sword": "Miecz",
+  "category.toolpose.axe": "Siekiera",
+  "category.toolpose.pickaxe": "Kilof",
+  "category.toolpose.shovel": "Łopata",
+  "category.toolpose.hoe": "Motyka",
+  "category.toolpose.food": "Jedzenie",
+  "category.toolpose.block": "Blok",
+  "category.toolpose.totem": "Totem",
+  "category.toolpose.shield": "Tarcza",
+  "category.toolpose.bow": "Łuk",
+  "category.toolpose.crossbow": "Kusza"
+}

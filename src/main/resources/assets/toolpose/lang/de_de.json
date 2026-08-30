@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "ToolPose Einstellungen",
+  "screen.toolpose.weaponConfig": "Waffen Einstellungen",
+  "screen.toolpose.categoryConfig": "Kategorie: %s",
+
+  "slider.toolpose.offsetX": "Links-Rechts: %s",
+  "slider.toolpose.offsetY": "Hoch-Runter: %s",
+  "slider.toolpose.offsetZ": "Nah-Fern: %s",
+  "slider.toolpose.rotationX": "Neigung: %s",
+  "slider.toolpose.rotationY": "Drehung: %s",
+  "slider.toolpose.rotationZ": "Grad: %s",
+  "slider.toolpose.swingIntensity": "Schwungstärke: %s",
+  "slider.toolpose.animationSpeed": "Animationsgeschwindigkeit: %s",
+  "slider.toolpose.scale": "Größe: %s",
+
+  "button.toolpose.reset": "Standard",
+  "button.toolpose.weaponConfig": "Waffen Einstellungen",
+  "button.toolpose.done": "Fertig",
+  "button.toolpose.back": "Zurück",
+  "button.toolpose.categoryEnabled": "Kategorie: %s",
+  "button.toolpose.rightHand": "Rechte Hand",
+  "button.toolpose.leftHand": "Linke Hand",
+  "button.toolpose.randomize": "Zufällig",
+
+  "tooltip.toolpose.enableCategories": "Kategorie-Viewmodels aktivieren",
+  "tooltip.toolpose.disableCategories": "Kategorie-Viewmodels deaktivieren",
+  "tooltip.toolpose.enableCategory": "Kategorie aktivieren",
+  "tooltip.toolpose.disableCategory": "Kategorie deaktivieren",
+
+  "category.toolpose.sword": "Schwert",
+  "category.toolpose.axe": "Axt",
+  "category.toolpose.pickaxe": "Spitzhacke",
+  "category.toolpose.shovel": "Schaufel",
+  "category.toolpose.hoe": "Hacke",
+  "category.toolpose.food": "Essen",
+  "category.toolpose.block": "Block",
+  "category.toolpose.totem": "Totem",
+  "category.toolpose.shield": "Schild",
+  "category.toolpose.bow": "Bogen",
+  "category.toolpose.crossbow": "Armbrust"
+}

@@ -1,0 +1,41 @@
+{
+  "screen.toolpose.config": "Ajustes de ToolPose",
+  "screen.toolpose.weaponConfig": "Ajustes de armas",
+  "screen.toolpose.categoryConfig": "Categoría: %s",
+
+  "slider.toolpose.offsetX": "Izquierda-Derecha: %s",
+  "slider.toolpose.offsetY": "Arriba-Abajo: %s",
+  "slider.toolpose.offsetZ": "Cerca-Lejos: %s",
+  "slider.toolpose.rotationX": "Inclinación: %s",
+  "slider.toolpose.rotationY": "Rotación: %s",
+  "slider.toolpose.rotationZ": "Grado: %s",
+  "slider.toolpose.swingIntensity": "Intensidad del golpe: %s",
+  "slider.toolpose.animationSpeed": "Velocidad de animación: %s",
+  "slider.toolpose.scale": "Tamaño: %s",
+
+  "button.toolpose.reset": "Por defecto",
+  "button.toolpose.weaponConfig": "Ajustes de armas",
+  "button.toolpose.done": "Hecho",
+  "button.toolpose.back": "Atrás",
+  "button.toolpose.categoryEnabled": "Categoría: %s",
+  "button.toolpose.rightHand": "Mano derecha",
+  "button.toolpose.leftHand": "Mano izquierda",
+  "button.toolpose.randomize": "Aleatorio",
+
+  "tooltip.toolpose.enableCategories": "Activar viewmodels por categoría",
+  "tooltip.toolpose.disableCategories": "Desactivar viewmodels por categoría",
+  "tooltip.toolpose.enableCategory": "Activar categoría",
+  "tooltip.toolpose.disableCategory": "Desactivar categoría",
+
+  "category.toolpose.sword": "Espada",
+  "category.toolpose.axe": "Hacha",
+  "category.toolpose.pickaxe": "Pico",
+  "category.toolpose.shovel": "Pala",
+  "category.toolpose.hoe": "Azada",
+  "category.toolpose.food": "Comida",
+  "category.toolpose.block": "Bloque",
+  "category.toolpose.totem": "Tótem",
+  "category.toolpose.shield": "Escudo",
+  "category.toolpose.bow": "Arco",
+  "category.toolpose.crossbow": "Ballesta"
+}
