@@ -12,6 +12,10 @@
 - 11 languages supported
 - Open settings with K key
 
+## Support
+
+If you like this mod, you can support me on [DonationAlerts](https://www.donationalerts.com/r/tafek).
+
 ## License
   
   # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
